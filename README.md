@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌍 Based in <b>San Diego, CA</b> | 💡 Open for collaboration & mentorship | ✉️ <b>mohammedalam19010@gmail.com</b>
+  🌍 Based in <b>San Diego, CA</b> | 💡 Open for collaboration & mentorship 
 </p>
 
 <p align="center">
