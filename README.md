@@ -95,6 +95,22 @@
 
 ---
 
+### 🛒 **E-Commerce & CMS**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?logo=bigcommerce&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)
+![Square](https://img.shields.io/badge/Square-3C3C3D?logo=square&logoColor=white)
+![3D Secure](https://img.shields.io/badge/3D%20Secure-1E1E1E?logo=lock&logoColor=white)
+![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000000?logo=applepay&logoColor=white)
+![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+---
+
 ### 🤖 **AI / ML / Visualization**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
@@ -149,3 +165,5 @@
 </p>
 
 ---
+
+<sub>⭐ Tip: To view your official achievements, go to your GitHub profile → Customize profile → enable “Show Achievements”.</sub>
