@@ -5,7 +5,7 @@
 
 <!-- Short intro -->
 <p align="center">
-  <b>Senior Full-Stack Engineer</b> • Crafting elegant, AI-powered, cloud-native applications that balance performance, scalability, and great design.
+  <b>Senior QA Engineer</b> • Crafting elegant, AI-powered, cloud-native applications that balance performance, scalability, and great design.
 </p>
 
 <p align="center">
