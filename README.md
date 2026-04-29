@@ -20,7 +20,7 @@
 
 ## 🧭 About Me  
 
-- 🚀 Senior Full-Stack Engineer with over a decade of experience building intuitive interfaces and scalable, backend-driven systems.  
+- 🚀 Senior QA Engineer with over a decade of experience building intuitive interfaces and scalable, backend-driven systems.  
 - 🤖 Currently developing an **AI-powered automation platform** that simplifies decision-making with real-time insights.  
 - 🎨 I love crafting experiences that blend creative design with reliable architecture.  
 - ☁️ Passionate about distributed systems, DevOps excellence, and performance-driven engineering.  
